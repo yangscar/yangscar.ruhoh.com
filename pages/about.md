@@ -1,6 +1,4 @@
 ---
-title : About Me
+title:
 description:
 ---
-
-Hello, how are you?
